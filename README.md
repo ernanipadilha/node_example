@@ -44,11 +44,16 @@ Faça um **fork** deste repositório no GitHub para responder as perguntas e rea
 ## Perguntas:
 
 - Em qual porta a aplicação está executando?
+- 3000
 - O que a aplicação faz?
+- Adiciona pessoas e sua idade em uma lista
 - Quais as **rotas** da aplicação?
+- As rotas são / e /pessoas/
 - Qual **framework web** está sendo utilizado no backend?
+- Node
 - Qual **engine template** está sendo utilizada?
 - Qual **DBMS** está sendo utilizado?
+- SQlite
 - Qual o formato do conteúdo do body das resposta relacionadas às rotas de Pessoa?
 
 ## Desafios:
